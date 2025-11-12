@@ -1,4 +1,4 @@
-# beacon-poc-rws
+# Beacon Proof of Concept Onderzoeksovereenkomst Beacon GUI en EMODnet conversies
 
 ## IHM_beacon.ipynb
 In de voorgaande PoC zijn meerdere Nederlands mariene databronnen onderzocht en de onderstaande zes bronnen zijn uiteindelijk gekozen als input voor de IHM-specifieke Beacon instantie die via de IHM_beacon.ipynb notebook en de nieuwe GUI (Beacon studio - https://beacon-ihm.maris.nl/studio/) te bevragen en visualiseren zijn:
